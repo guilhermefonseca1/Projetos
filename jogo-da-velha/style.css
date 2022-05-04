@@ -1,0 +1,15 @@
+#tabuleiro {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    width: 132px;
+}
+
+.divBoard {
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
